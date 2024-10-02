@@ -1,5 +1,5 @@
 ```markdown
-# Python Training Program Outline - Detailed
+# Python Training Program Outline
 
 ## Day 1: Introduction and Setup
 
