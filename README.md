@@ -1,4 +1,4 @@
-```markdown
+
 # Python Training Program Outline
 
 ## Day 1: Introduction and Setup
