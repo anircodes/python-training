@@ -1,5 +1,5 @@
 
-# Python Training Program Outline
+# Python Training Program
 
 ## Day 1: Introduction and Setup
 
